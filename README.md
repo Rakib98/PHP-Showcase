@@ -1,3 +1,4 @@
+## PHP Showcase
 A website created to display some PHP functions.
 
 ## Technologies used
