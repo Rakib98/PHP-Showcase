@@ -11,7 +11,7 @@
       <br><br>
     </div>
   </div>
-  <div class="parallax"><img src="img/01.jpg" alt="Unsplashed background img 1" style="filter:blur(5px)"></div>
+  <div class="parallax"><img src="img/01.jpg" alt="Unsplashed background img 1" style="filter:blur(2px)"></div>
 </div>
 <div class="z-depth-2">
   <div class="light-blue accent-3">
@@ -36,7 +36,7 @@
       </div>
     </div>
     </div> -->
-  <div class="parallax"><img src="img/02.jpg" alt="Unsplashed background img 2" style="filter:blur(5px)"></div>
+  <div class="parallax"><img src="img/02.jpg" alt="Unsplashed background img 2" style="filter:blur(2px)"></div>
 </div>
 <div class="z-depth-2">
   <div class="light-blue accent-3">
@@ -61,7 +61,7 @@
       </div>
     </div>
     </div> -->
-  <div class="parallax"><img src="img/04.jpg" alt="Unsplashed background img 3" style="filter:blur(5px)"></div>
+  <div class="parallax"><img src="img/04.jpg" alt="Unsplashed background img 3" style="filter:blur(2px)"></div>
 </div>
 <!-- Import footer -->
 <?php require("includes/footer.php") ?>
